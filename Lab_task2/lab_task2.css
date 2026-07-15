@@ -1,0 +1,65 @@
+.color_for_table{
+    background-color: blue;
+    padding-left: 25px;
+
+
+}
+.table1
+{
+     padding-left: 25px;
+
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+body
+{
+    margin: 30px 30px 30px 30px;
+}
+table
+{
+    width: 90%;
+    margin-top: 15px;
+    border-color: black;
+    
+}
+.table_color
+{
+    background-color: lightblue;
+    padding-left: 25px;
+}
+button{
+    margin-top:15px;
+    padding: 8px 20px;
+    
+}
+.form_box{
+    width:400px;
+    margin: auto;
+    background-color: green;
+    border-radius: 30px;
+}
+.form_box h3{
+    text-align: center;
+}
+.marg
+{
+    padding-left: 25px;
+}
+input
+{
+    border-radius:5px;
+}
+.input_box
+{
+    size: 50%;
+}
+
+button
+{
+    border-radius:10px;
+    margin-bottom: 10px;
+}
