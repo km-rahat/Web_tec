@@ -1,0 +1,69 @@
+fieldset
+{
+    background-color: aliceblue;
+    border-radius: 2%;
+
+}
+Legend
+{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 10%;
+    color: white;
+    position: center;
+    
+    
+
+
+}
+body
+{
+    margin : 350px 350px;
+
+}
+table{
+    margin:auto;
+}
+.b1
+{
+    background-color: blueviolet;
+    margin-top: 50px;
+    margin-left:30%;
+     border-radius: 10%;
+     padding: 10px 30px;
+     border: 1px solid lightgray;
+     color: white;
+    
+}
+.b2
+{
+    margin-top: 50px;
+    margin-left: 20px;
+     border-radius: 10%;
+     padding:10px 30px;
+     border: 1px solid lightgray;
+
+
+}
+
+.n1
+{
+    display: flex;
+    gap: 30px;
+    margin-left: 30px;
+}
+input
+{
+    border-radius: 7%;
+    border: 1px solid lightgray;
+    padding:5px 65px;
+}
+.space_t
+{
+    margin-top: 50px;
+}
+.exsize
+{
+    
+    padding: 5px 90px;
+}
